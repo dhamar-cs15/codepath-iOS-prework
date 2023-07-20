@@ -2,9 +2,9 @@
 
 Submitted by: **Dhamar Carrillo**
 
-**Name of your app** is an app that... [TODO] 
+**Name of your app** is an app that allows the user to learn more about the app creator, Dhamar, by revealing some hidden fun facts about her education and career. The user is also able to change the background color to a random color by clicking a button. In addition, if the user determines that the text color does not go well with the background color, they can choose the new text color using sliders that determine RGB values.  
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
