@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/dhamar-cs15/codepath-iOS-prework/assets/109814791/0cb2f6ac-ada8-4134-902c-1287f45bd147' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/dhamar-cs15/codepath-iOS-prework/assets/109814791/0cb2f6ac-ada8-4134-902c-1287f45bd147' title='Video Walkthrough' width='200px' alt='Video Walkthrough' />
 
 
 GIF created with Kap
